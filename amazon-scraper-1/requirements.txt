@@ -1,0 +1,4 @@
+selectorlib
+requests
+flask
+selenium
